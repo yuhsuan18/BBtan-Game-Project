@@ -5,7 +5,7 @@
 small game developed in visual c#
 
 * check `WindowsFormsApplication2.exe` for 1st version)
-* video: https://vimeo.com/570299342/70da4c6dd2
+* Record of the game: https://vimeo.com/570299342/70da4c6dd2
 
 
 ![Image of Execcution Results 1](https://github.com/yuhsuan18/BBtan-Game-Project/blob/main/pic1.png)

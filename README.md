@@ -1,10 +1,10 @@
 
 # BBtan Game
-
 [In progress to revise for new versions]
+
 small game developed in visual c#
 
-(check `WindowsFormsApplication2.exe` for 1st version)
+* check `WindowsFormsApplication2.exe` for 1st version)
 
 ![Image of Execcution Results 1](https://github.com/yuhsuan18/BBtan-Game-Project/blob/main/pic1.png)
 ![Image of Execcution Results 2](https://github.com/yuhsuan18/BBtan-Game-Project/blob/main/pic2.png)
